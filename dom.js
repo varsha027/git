@@ -47,6 +47,7 @@ function removeItem(e){
       itemList.removeChild(li);
     }
   }
+  
 }
 
 // Filter Items
