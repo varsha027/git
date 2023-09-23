@@ -46,8 +46,7 @@ function removeItem(e){
       var li = e.target.parentElement;
       itemList.removeChild(li);
     }
-  }
-  
+  } 
 }
 
 // Filter Items
